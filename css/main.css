@@ -379,7 +379,7 @@ header #logo-container:last-child {
   }
 }
 header #logo-container #logo {
-  padding-top: 0.5em;
+  padding-top: 0em;
   font-weight: bold;
   font-size: 48px;
   line-height: 60px;
@@ -406,7 +406,7 @@ header a:active, header a:focus {
 }
 header nav {
   text-align: right;
-  float: left;
+  float: right;
   display: block;
   margin-right: 2.35765%;
   width: 74.41059%;
@@ -418,7 +418,7 @@ header nav:last-child {
   header nav {
     text-align: left;
     margin-top: 1em;
-    float: left;
+    float: right;
     display: block;
     margin-right: 7.42297%;
     width: 100%;
